@@ -25,6 +25,11 @@ export default [
     id: 4,
     name: "player 5",
     age: 29 
+    },
+    {
+    id: 5,
+    name: "player 6",
+    age: 29 
     }
 
 
